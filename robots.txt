@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stalin-maker.github.io/portafolio_adrian/sitemap.xml
